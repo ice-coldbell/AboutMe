@@ -13,12 +13,12 @@
 ## Experience
   + Software Developer (2021-12 ~ )
     + [ReturnZero](https://www.rtzr.ai/)
-    + [Backend Server](https://www.aico.tv)
+    + [AICO Backend Server](https://www.aico.tv)
     + Golang, MariaDB, Redis, FFmpeg
 
   + Software Developer (2020-09 ~ 2021-09) [1년 1개월]
     + [ReturnZero](https://www.vito.ai/)
-    + [Backend Server](https://www.aico.tv)
+    + [VITO Backend Server](https://www.vito.ai/)
     + Golang, MariaDB, Redis, FCM, ELK
 
   + Data Analyst & Data Engineer (2019-09 ~ 2020-08)
