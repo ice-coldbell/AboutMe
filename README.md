@@ -46,16 +46,3 @@
     + For Study
     + Golang, Cassandra, Kafka, Rabbitmq
     + Golang Package [error, logger]
-
-
-  + 23-1 Capstone design project (in progress)
-    + Unreal Engine
-    + 2D Images to 3D Object
-
-
-  + 22-2 Capstone design project
-    + Unity VR
-    + OpenRDW
-    + Redirected Walking
-    + Reinforcement learning
-
