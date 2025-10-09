@@ -2,6 +2,7 @@ About me
   + Park ChanJong (Bell)
   + email: qkrckswhd200@naver.com
   + Bachelor's degree in Computer Science from Yonsei University
+  + A backend developer who loves Golang.
 
 ## Interested in
   + Golang & Typescript
