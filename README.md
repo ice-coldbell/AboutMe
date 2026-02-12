@@ -12,7 +12,7 @@ About me
   + Data analysis & engineering
 
 ## Experience
-  + Software Developer (2024-05 ~ )
+  + Software Developer (2024-05 ~ 2025-10)
     + [Merkle Trade](https://merkle.trade/)
     + Infra & Backend
   
